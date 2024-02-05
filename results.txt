@@ -1,0 +1,41 @@
+You escaped the dungeon!!! Congratulationss!!
+Here are the final stats:
++--------------+
+Main player: v: 42
++--------------+
+Party: 
+a: 46
+s: 46
+d: 45
+f: 45
++--------------+
+Rooms cleared: 5
++--------------+
+Gold remaining: 116
++--------------+
+Treasure: 
+1 Silver Ring(s).
+0 Ruby Necklace(s).
+0 Emerald Bracelet(s).
+0 Diamond Circlet(s).
+0 Gem-encrusted goblet(s).
++--------------+
+Number of spaces explored: 4
++--------------+
+Number of monsters defeated: 5
++--------------+
+Number of turns elapsed: 35
++--------------+
+Players sorted by fullness level:
+a : 46 fullness level
++--------------+
+s : 46 fullness level
++--------------+
+d : 45 fullness level
++--------------+
+f : 45 fullness level
++--------------+
+v : 42 fullness level
++--------------+
+
+
